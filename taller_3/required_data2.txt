@@ -1,0 +1,69 @@
+ -----------------------------------------------------------
+|                     Personal data                         |
+ -----------------------------------------------------------
+
+Full name*: ddd
+Age*: dd
+Height*: ddd
+Weight*: ddd
+Blood-type*: ddd
+Illnesses*: ddd
+Profession*: dddd
+Home country*: ddd
+Home city*: ddd
+Address: unknown
+Contact number: unknown
+Emergency contact*: ddd
+Email*: ddd
+
+ -----------------------------------------------------------
+|                       Family data                         |
+ -----------------------------------------------------------
+
+• Mother:
+    Full name*: dd
+    Age*: d
+    Blood-type*: dd
+    Illnesses*: d
+    Profession: unknown
+    Home country*: d
+    Home city*: dd
+    Address*: d
+    Contact number*: d
+    Email: unknown
+
+• Father:
+    Full name*: d
+    Age*: d
+    Blood-type*: d
+    Illnesses*: d
+    Profession: unknown
+    Home country*: d
+    Home city*: dd
+    Address*: dd
+    Contact number*: dd
+    Email: unknown
+
+• Brother:
+    Full name*: d
+    Age*: d
+    Blood-type*: dd
+    Illnesses*: d
+    Profession*: dd
+    Home country: unknown
+    Home city: unknown
+    Address: unknown
+    Contact number*: d
+    Email: unknown
+
+• Sister:
+    Full name*: d
+    Age*: d
+    Blood-type*: d
+    Illnesses*: d
+    Profession: unknown
+    Home country: unknown
+    Home city: unknown
+    Address: unknown
+    Contact number*: d
+    Email unknown
